@@ -37,3 +37,5 @@
 [Solution 22A(800)](https://codeforces.com/contest/22/problem/A)
 
 [Solution 2110A(800)](https://codeforces.com/contest/2110/problem/A)
+
+[Solution 2106A(800)](https://codeforces.com/problemset/problem/2106/A)
