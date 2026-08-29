@@ -55,3 +55,5 @@
 [Solution 2106A(800)](https://codeforces.com/problemset/problem/2106/A)
 
 [Solution 2254A(800)](https://codeforces.com/contest/2254/problem/A)
+
+[Solution 20C(1900)](https://codeforces.com/contest/20/problem/C)
