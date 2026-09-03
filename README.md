@@ -57,3 +57,5 @@
 [Solution 2254A(800)](https://codeforces.com/contest/2254/problem/A)
 
 [Solution 20C(1900)](https://codeforces.com/contest/20/problem/C)
+
+[Solution 25D(1900)](https://codeforces.com/contest/25/problem/D)
